@@ -1,8 +1,5 @@
-# ╔════════════════════════════════════════════════════════╗
-# ║  Catppuccin Cosmic - Mocha Sky Edition (Alacritty)     ║
-# ║  Designed for Pop!_OS Cosmic + Catppuccin Mocha style  ║
-# ╚════════════════════════════════════════════════════════╝
-
+# eosxh alacritty settings 
+# THEME : Catpuccin
 window:
   opacity: 0.95
   padding:
